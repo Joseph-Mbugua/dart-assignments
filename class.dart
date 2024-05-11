@@ -23,8 +23,8 @@ class Teacher {
 }
 
 class School {
-  Student student;
-  Teacher teacher;
+  late Student student;
+  late Teacher teacher;
 
   School() {
     student = Student('John', 15, '10th');
