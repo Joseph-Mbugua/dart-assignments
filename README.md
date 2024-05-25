@@ -26,3 +26,7 @@ solution given in the utilities.dart file
 ### Project 1: Building A Calculator App
 
 solution given as calculator.dart file
+  ### Tictactoe Game
+  how to build a Tic Tac Toe Command Line Interface (CLI) game using Dart.
+
+  solution given as tictactoe.dart
