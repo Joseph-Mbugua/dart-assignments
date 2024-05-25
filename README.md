@@ -22,3 +22,7 @@ Create a program that takes a list of numbers as input and outputs the largest n
 Write a program that uses a try-catch block to catch an exception and output an error message.
 
 solution given in the utilities.dart file
+
+### Project 1: Building A Calculator App
+
+solution given as calculator.dart file
