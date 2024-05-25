@@ -8,7 +8,9 @@ Create a method in the student class that prints out the student's information.
 Create a method in the teacher class that prints out the teacher's information.
 Create a third class that creates a student and teacher object, and calls the methods to print out the information.
 
- ### 2nd assignment
+solution given in the class.dart file
+
+ ### 2nd assignment  ---Technical Assignment Challenge: Dart Utilities
  The challenge consists of the following tasks:
 
 Create a function that takes two numbers as input and returns the sum of those numbers.
@@ -18,3 +20,5 @@ Create a program that uses a while loop to print out the numbers from 20 to 10.
 Create a program that uses an if-else statement to check if a number is even or odd and output the result.
 Create a program that takes a list of numbers as input and outputs the largest number in the list.
 Write a program that uses a try-catch block to catch an exception and output an error message.
+
+solution given in the utilities.dart file
