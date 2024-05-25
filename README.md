@@ -1,3 +1,4 @@
+### 1st asingment 
 The challenge is to create a program that meets the following requirements:
 
 Create two classes, one for a student and one for a teacher.
@@ -7,7 +8,7 @@ Create a method in the student class that prints out the student's information.
 Create a method in the teacher class that prints out the teacher's information.
 Create a third class that creates a student and teacher object, and calls the methods to print out the information.
 
- ### second assignment
+ ### 2nd assignment
  The challenge consists of the following tasks:
 
 Create a function that takes two numbers as input and returns the sum of those numbers.
